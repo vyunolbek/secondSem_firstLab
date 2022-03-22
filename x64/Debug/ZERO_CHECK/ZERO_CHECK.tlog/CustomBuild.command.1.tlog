@@ -1,0 +1,10 @@
+^D:\GIT\SECONDSEM_FIRSTLAB\CMAKEFILES\1EA82DEE2AA1A16CE88FE15E5F79ECC9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GIT/secondSem_firstLab -BD:/GIT/secondSem_firstLab --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GIT/secondSem_firstLab/FirstLab.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,4 +1,4 @@
-# Install script for directory: D:/git/secondSem_firstLab
+# Install script for directory: D:/GIT/secondSem_firstLab
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/git/secondSem_firstLab/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/GIT/secondSem_firstLab/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

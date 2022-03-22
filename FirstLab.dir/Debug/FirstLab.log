@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: два или более файлов с именем TPredator.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — headers\TPredator.cpp, src\TPredator.cpp.
+  main.cpp
+  TPredator.cpp
+  Создание кода...
+  FirstLab.vcxproj -> D:\GIT\secondSem_firstLab\Debug\FirstLab.exe
