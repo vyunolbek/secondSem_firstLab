@@ -1,2 +1,1 @@
-# secondSem_firstLab
-
+# secondSem_firstLab VYUNOV FI3
